@@ -1,5 +1,7 @@
 # Hello, I'm Ashutosh Raj 👋
 
+💡 Passionate about solving problems and exploring security concepts
+
 🎓 B.Tech CSE | 1st Year  
 🏫 VIT Bhopal University  
 
