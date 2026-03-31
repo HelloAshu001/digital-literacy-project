@@ -4,7 +4,7 @@
 🏫 VIT Bhopal University  
 
 💻 Interested in Cybersecurity & Digital Forensics  
-🚀 Learning programming and building projects
+🚀Learning programming and building projects
 
 ## 🔧 Skills
 - Python
