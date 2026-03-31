@@ -35,6 +35,7 @@ Studied a case of UPI fraud and created a prevention checklist.
 ## Conclusion
 This project helped me improve my digital literacy skills, communication, and awareness of online safety.
 
-### GitHub Profile: https://github.com/HelloAshu001
-### LinkedIn Profile: https://www.linkedin.com/in/ashutosh-raj-0ba193380 
-### Digital Literacy Quiz: https://forms.gle/4MZKVDkP2s2pqHP87
+### Important Project Links
+- GitHub Profile: https://github.com/HelloAshu001
+- LinkedIn Profile: https://www.linkedin.com/in/ashutosh-raj-0ba193380 
+- Digital Literacy Quiz: https://forms.gle/4MZKVDkP2s2pqHP87
