@@ -1,4 +1,4 @@
-# Hello, I'm Ashutosh 👋
+# Hello, I'm Ashutosh Raj 👋
 
 🎓 B.Tech CSE | 1st Year  
 🏫 VIT Bhopal University  
