@@ -1,6 +1,6 @@
 This project focuses on developing digital literacy skills, including understanding online tools, building a professional presence, practicing coding, learning communication etiquette, and staying safe from cybercrime. Each task helped in improving practical knowledge and awareness of digital platforms.
 
-##**Task 1**
+**##Task 1**
 
 For Task 1, I created an infographic on the topic “Digital Literacy for Students.” The infographic explains the meaning of digital literacy, which includes using digital tools effectively, communicating online properly, and finding reliable information.
 
