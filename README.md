@@ -1,10 +1,9 @@
-# Digital Literacy Project
+# CSE0001: Digital Literacy Project
 ### Student Digital Ambassador Portfolio
 
 ## Student Information
 - Name: Ashutosh Raj
 - Branch: B.Tech CSE (Cyber Security & Digital Forensics)
-- Year: 1st Year
 - University: VIT Bhopal University
 
 ---
