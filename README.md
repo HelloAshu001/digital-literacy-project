@@ -1,7 +1,17 @@
-# Hello, I'm Ashutosh Raj 👋
+# Hello, I'm Ashutosh 👋
 
 🎓 B.Tech CSE | 1st Year  
 🏫 VIT Bhopal University  
 
-💻 I am a beginner learning programming and exploring AI and technology.  
-🚀 I aim to improve my coding skills and build useful projects.
+💻 Interested in Cybersecurity & Digital Forensics  
+🚀 Learning programming and building projects
+
+## 🔧 Skills
+- Python
+- Git & GitHub
+- Cybersecurity Basics
+
+## 📌 Goals
+- Build real-world projects  
+- Learn ethical hacking and digital forensics  
+- Improve problem-solving skills
